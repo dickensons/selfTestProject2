@@ -1,3 +1,9 @@
+#Ignore everything
+*
+#But not this file
+!Test.java
+!.gitignore
+
 *.class
 
 # Mobile Tools for Java (J2ME)
