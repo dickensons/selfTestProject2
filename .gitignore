@@ -3,6 +3,7 @@
 #But not this file
 !Test.java
 !.gitignore
+!README.md
 
 *.class
 
