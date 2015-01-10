@@ -31,6 +31,7 @@ AUTHORS: all of us <3
 USER INSTRUCTIONS: We are going to make some changes to the Level and PaKman classes. 
 
 You can find all instructions inside Test file. 
+To download this Project run `git clone https://github.com/dickensons/selfTestProject2.git` in terminal.
 
 
 
