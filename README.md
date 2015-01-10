@@ -24,7 +24,7 @@ PURPOSE OF PROJECT:test
 
 VERSION or DATE: 09:01:2015
 
-HOW TO START THIS PROJECT: Pull or Fork. You can also comment existing code.
+HOW TO START THIS PROJECT: Pull or Fork. You can also comment existing code, or even edit in in your browser.
 
 AUTHORS: all of us <3
 
